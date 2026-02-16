@@ -1,12 +1,6 @@
 # explainable-hybrid-rf-et-stroke-risk
 Imbalance-aware stroke risk prediction on tabular clinical data using a soft-voting Random Forest + Extra Trees ensemble with SHAP/LIME interpretability.
-explainable-hybrid-rf-et-stroke-risk/
-├─ Hybrid_RF+ET.ipynb
-├─ README.md
-├─ requirements.txt
-├─ .gitignore
-├─ LICENSE
-└─ assets/   (optional: images for README, architecture diagram)
+
 
 # Explainable Hybrid RF+ET Framework for Imbalanced Clinical Stroke Risk Prediction
 
