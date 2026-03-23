@@ -1,5 +1,6 @@
 
 # Clinical Stroke Risk Prediction using Machine Learning
+![image alt](https://github.com/irfanulkabirhira/Netflix-Movies-and-TV-Shows-Power-BI-Dashboard/blob/8471ff049c0903a5bf9e193057ec20de6e5188b3/netflix%20deshboard.png)
 
 A complete machine learning pipeline for **clinical stroke risk prediction** using data visualization, missing value imputation, class balancing with **SMOTE**, multiple model comparison, and a **hybrid Random Forest + Extra Trees ensemble** with threshold tuning.
 
